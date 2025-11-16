@@ -1,11 +1,11 @@
 import { StyleSheet, Text, View } from "react-native";
 
-export default function IndexScreen() {
-  return (
-    <View className="flex-1 justify-center items-center bg-white">
-      <Text className="text-lg font-semibold">Home Screen</Text>
-    </View>
-  );
+export default function CartScreen() {
+    return (
+        <View className="flex-1 justify-center items-center bg-white">
+            <Text className="text-xl font-semibold">Cart Screen</Text>
+        </View>
+    );
 }
 
 const styles = StyleSheet.create({
