@@ -1,0 +1,53 @@
+[33mcommit 8d5bf864b6fbec0ca40eeed7723b89242b8f31f1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: yanas-logs <81765889+yanas-logs@users.noreply.github.com>
+Date:   Mon Nov 17 02:14:52 2025 +0000
+
+    chore: refactor index.tsx (tabs) and index.ts constants
+
+[33mcommit ff1bbc3bc39fbcbf78045aba2e2624d718ebc4c0[m
+Author: yanas-logs <81765889+yanas-logs@users.noreply.github.com>
+Date:   Mon Nov 17 00:37:14 2025 +0000
+
+    chore: refactor _layout.tsx app and index.tsx app(tabs)
+
+[33mcommit d233d5892863aa5834aae219f1bb8de4471eaa78[m
+Author: yanas-logs <81765889+yanas-logs@users.noreply.github.com>
+Date:   Sun Nov 16 23:23:35 2025 +0000
+
+    chore: implement nativewind
+
+[33mcommit 974e5854162225413f9feeaab2982f6d886a14c1[m
+Author: yanas-logs <yanas.dev404@gmail.com>
+Date:   Mon Nov 17 05:59:54 2025 +0700
+
+    feat: create bottom navigation: Home, Search, Cart and Profile.
+
+[33mcommit dde52c9535cd4b43dcbad3aed75161f6c29a43e9[m
+Author: yanas-logs <81765889+yanas-logs@users.noreply.github.com>
+Date:   Sun Nov 16 20:25:18 2025 +0000
+
+    chore: initial TabsUi
+
+[33mcommit 8fcb055e3720e4643ed27417fae460569cdfb99d[m
+Author: yanas-logs <81765889+yanas-logs@users.noreply.github.com>
+Date:   Mon Nov 17 03:08:36 2025 +0700
+
+    Add files via upload
+
+[33mcommit 9bbe80d51f56a55d0768dd36c2043737308e572d[m
+Author: yanas-logs <81765889+yanas-logs@users.noreply.github.com>
+Date:   Mon Nov 17 03:06:34 2025 +0700
+
+    Add files via upload
+
+[33mcommit 58b5f27079c2bbb4dfdf62c6df7951aa08244726[m
+Author: yanas-logs <81765889+yanas-logs@users.noreply.github.com>
+Date:   Mon Nov 17 02:56:39 2025 +0700
+
+    Add files via upload
+
+[33mcommit 965ea28815a5949a565a00e00d6e4d7e2cbdb2d2[m
+Author: yanas-logs <81765889+yanas-logs@users.noreply.github.com>
+Date:   Mon Nov 17 02:28:21 2025 +0700
+
+    Initial commit
