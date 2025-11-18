@@ -25,7 +25,8 @@ function RootLayoutInternal() {
   if (loading || !fontsLoaded) return null;
 
   // Redirect if not logged in
-  if (!user) return <Redirect href="/login" />;
+
+  if (!user) return <Redirect href="/" />;
 
   // Render main tabs
   return <Tabs />;
